@@ -1,0 +1,18 @@
+SiiNunit
+{
+accessory_cabin_data : standard.canter.fe71.cabin
+{
+    name: "FE71 Standard Cab"
+    price: 0
+    unlock: 0
+    icon: "interior_mercedes_actros_2014_std"
+    detail_model: "/vehicle/truck/canter_fe71/canter_fe71_cabin.pmd"
+    lods[]: "/vehicle/truck/canter_fe71/canter_fe71_cabin.pmd"
+    collision: "/vehicle/truck/iveco_hiway/truck.pmc"
+    variant: default
+    look: default
+    suspension: false
+    defaults[]: "/def/vehicle/truck/canter.fe71/interior/standard.sii"
+    defaults[]: "/def/vehicle/truck/canter.fe71/paint_job/yellow_box.sii"
+}
+}

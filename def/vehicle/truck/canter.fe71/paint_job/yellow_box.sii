@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_paint_job_data : yellow_box.canter.fe71.paint_job
+{
+    name: "FE71 Yellow Box"
+    price: 0
+    unlock: 0
+    base_color: (0.95, 0.62, 0.015)
+    base_color_locked: true
+    stock: true
+}
+}

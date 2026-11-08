@@ -1,0 +1,34 @@
+SiiNunit
+{
+accessory_truck_data : vehicle.canter.fe71
+{
+    info[]: "Mitsubishi Fuso"
+    info[]: "Canter FE71"
+
+    behind_camera: camera.behind.basic
+    interior_camera: camera.interior.iveco.hiway
+    bumper_camera: camera.bumper.basic
+    window_camera: camera.window.basic
+    cabin_camera: camera.cabin.basic
+    wheel_camera: camera.wheel.basic
+    top_camera: camera.top.basic
+    tv_camera: camera.tv.basic
+    debug_camera: camera.debug
+
+    fallback[]: "chassis|4x2.sii"
+    fallback[]: "cabin|standard.sii"
+    fallback[]: "interior|standard.sii"
+    fallback[]: "engine|4v21.sii"
+    fallback[]: "transmission|5_speed.sii"
+    fallback[]: "paint_job|yellow_box.sii"
+    fallback[]: "f_tire|1.sii"
+    fallback[]: "f_disc|front_disc_01_matt_gray.sii"
+    fallback[]: "f_hub|front_hub_01.sii"
+    fallback[]: "f_nuts|front_nuts_01_steel.sii"
+    fallback[]: "r_tire|1.sii"
+    fallback[]: "r_disc|rear_disc_01_matt_gray.sii"
+    fallback[]: "r_hub|rear_hub_01.sii"
+    fallback[]: "r_nuts|rear_nuts_01_steel.sii"
+    fallback[]: "head_light|standard.sii"
+}
+}

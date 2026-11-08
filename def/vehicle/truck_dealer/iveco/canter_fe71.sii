@@ -1,0 +1,114 @@
+SiiNunit
+{
+vehicle: .tdealer.canter_fe71
+{
+    accessories[]: .canter_fe71.data
+    accessories[]: .canter_fe71.chassis
+    accessories[]: .canter_fe71.cabin
+    accessories[]: .canter_fe71.interior
+    accessories[]: .canter_fe71.engine
+    accessories[]: .canter_fe71.transmission
+    accessories[]: .canter_fe71.paint_job
+    accessories[]: .canter_fe71.head_light
+    accessories[]: .canter_fe71.soundint
+    accessories[]: .canter_fe71.soundext
+    accessories[]: .canter_fe71.ftire
+    accessories[]: .canter_fe71.fdisc
+    accessories[]: .canter_fe71.fhub
+    accessories[]: .canter_fe71.fnuts
+    accessories[]: .canter_fe71.rtire
+    accessories[]: .canter_fe71.rdisc
+    accessories[]: .canter_fe71.rhub
+    accessories[]: .canter_fe71.rnuts
+    accessories[]: .canter_fe71.swheel
+}
+
+vehicle_accessory : .canter_fe71.data {
+    wear: 0
+    data_path: "/def/vehicle/truck/canter.fe71/data.sii"
+}
+vehicle_accessory : .canter_fe71.chassis {
+    wear: 0
+    data_path: "/def/vehicle/truck/canter.fe71/chassis/4x2.sii"
+}
+vehicle_accessory : .canter_fe71.cabin {
+    wear: 0
+    data_path: "/def/vehicle/truck/iveco.hiway/cabin/hiway_cab.sii"
+}
+vehicle_accessory : .canter_fe71.interior {
+    wear: 0
+    data_path: "/def/vehicle/truck/iveco.hiway/interior/standard.sii"
+}
+vehicle_accessory : .canter_fe71.engine {
+    wear: 0
+    data_path: "/def/vehicle/truck/canter.fe71/engine/4v21.sii"
+}
+vehicle_accessory : .canter_fe71.transmission {
+    wear: 0
+    data_path: "/def/vehicle/truck/canter.fe71/transmission/5_speed.sii"
+}
+vehicle_paint_job_accessory : .canter_fe71.paint_job {
+    mask_r_color: (1.0, 0.0, 0.0)
+    mask_g_color: (0.0, 1.0, 0.0)
+    mask_b_color: (0.0, 0.0, 1.0)
+    base_color: (0.95, 0.62, 0.015)
+    wear: 0
+    data_path: "/def/vehicle/truck/canter.fe71/paint_job/yellow_box.sii"
+}
+vehicle_accessory : .canter_fe71.head_light {
+    wear: 0
+    data_path: "/def/vehicle/truck/iveco.hiway/head_light/standard.sii"
+}
+vehicle_sound_accessory : .canter_fe71.soundint {
+    wear: 0
+    data_path: "/def/vehicle/truck/iveco.hiway/sound/interior.sii"
+}
+vehicle_sound_accessory : .canter_fe71.soundext {
+    wear: 0
+    data_path: "/def/vehicle/truck/iveco.hiway/sound/exterior.sii"
+}
+vehicle_wheel_accessory : .canter_fe71.ftire {
+    offset: 0
+    wear: 0
+    data_path: "/def/vehicle/f_tire/1.sii"
+}
+vehicle_wheel_accessory : .canter_fe71.fdisc {
+    offset: 0
+    wear: 0
+    data_path: "/def/vehicle/f_disc/front_disc_01_matt_gray.sii"
+}
+vehicle_wheel_accessory : .canter_fe71.fhub {
+    offset: 0
+    wear: 0
+    data_path: "/def/vehicle/f_hub/front_hub_01.sii"
+}
+vehicle_wheel_accessory : .canter_fe71.fnuts {
+    offset: 0
+    wear: 0
+    data_path: "/def/vehicle/f_nuts/front_nuts_01_steel.sii"
+}
+vehicle_wheel_accessory : .canter_fe71.rtire {
+    offset: 0
+    wear: 0
+    data_path: "/def/vehicle/r_tire/1.sii"
+}
+vehicle_wheel_accessory : .canter_fe71.rdisc {
+    offset: 0
+    wear: 0
+    data_path: "/def/vehicle/r_disc/rear_disc_01_matt_gray.sii"
+}
+vehicle_wheel_accessory : .canter_fe71.rhub {
+    offset: 0
+    wear: 0
+    data_path: "/def/vehicle/r_hub/rear_hub_01.sii"
+}
+vehicle_wheel_accessory : .canter_fe71.rnuts {
+    offset: 0
+    wear: 0
+    data_path: "/def/vehicle/r_nuts/rear_nuts_01_steel.sii"
+}
+vehicle_addon_accessory : .canter_fe71.swheel {
+    wear: 0
+    data_path: "/def/vehicle/truck/iveco.hiway/accessory/steering_w/standard.sii"
+}
+}

@@ -1,0 +1,16 @@
+SiiNunit
+{
+accessory_transmission_data : 5_speed.canter.fe71.transmission
+{
+    name: "5 Speed Manual"
+    price: 0
+    unlock: 0
+    differential_ratio: 4.444
+    ratios_reverse[0]: -4.98
+    ratios_forward[0]: 5.38
+    ratios_forward[1]: 2.90
+    ratios_forward[2]: 1.53
+    ratios_forward[3]: 1.00
+    ratios_forward[4]: 0.77
+}
+}

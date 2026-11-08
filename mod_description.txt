@@ -1,0 +1,4 @@
+Mitsubishi Fuso Canter FE71 4x2, based on the provided yellow-cab / white-box reference.
+
+Target game: Euro Truck Simulator 2 1.36.2.48
+Diagnostic build 2: Canter chassis and cargo-box model with vanilla IVECO cab/interior, shadow/UI-shadow resources, and complete engine info.

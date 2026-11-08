@@ -1,0 +1,15 @@
+SiiNunit
+{
+accessory_interior_data : standard.canter.fe71.interior
+{
+    name: "FE71 Standard Interior"
+    price: 0
+    unlock: 0
+    icon: "interior_mercedes_actros_2014_std"
+    model: "/vehicle/truck/canter_fe71/canter_fe71_interior.pmd"
+    look: default
+    variant: default
+    dashboard_path: "/ui/dashboard/mercedes_actros_2009.sii"
+    gps_path: "/ui/gps.sii"
+}
+}

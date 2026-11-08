@@ -1,0 +1,14 @@
+SiiNunit
+{
+accessory_engine_data : 4v21.canter.fe71.engine
+{
+    name: "4V21 108 PS"
+    price: 0
+    unlock: 0
+    info[]: "108 @@hp@@"
+    info[]: "300 @@nm@@"
+    info[]: "1,000@@dg@@2,500 @@rpm@@"
+    torque: 3000
+    volume: 6.1
+}
+}
